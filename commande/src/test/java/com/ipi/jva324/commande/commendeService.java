@@ -4,9 +4,10 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CommandeApplicationTests {
+public class commendeService {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    public void CreateCommande(){
+
+    }
 }
